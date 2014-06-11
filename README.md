@@ -16,4 +16,6 @@ logout
 
 Running:
 
-```make```
+```
+make
+```
