@@ -4,12 +4,15 @@ Sandbox for libgtest-dev.
 
 Requirements:
 
-```sudo apt-get install libgtest-dev```
-```sudo -s```
-```cd /usr/src/gtest```
-```cmake .```
-```make```
-```cp libg* /usr/lib/```
+```
+sudo apt-get install libgtest-dev
+sudo -s
+cd /usr/src/gtest
+cmake .
+make
+cp libg* /usr/lib/
+logout
+```
 
 Running:
 
